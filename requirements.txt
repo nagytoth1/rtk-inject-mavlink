@@ -1,0 +1,2 @@
+pygnssutils == 1.0.10
+pymavlink == 2.4.39
