@@ -1,0 +1,14 @@
+cffi==1.16.0
+cryptography==42.0.5
+future==1.0.0
+lxml==5.2.0
+paho-mqtt==2.0.0
+pycparser==2.22
+pygnssutils==1.0.10
+pymavlink==2.4.39
+pynmeagps==1.0.35
+pyrtcm==1.0.17
+pyserial==3.5
+pyspartn==0.2.1
+python-dotenv==1.0.1
+pyubx2==1.2.39
